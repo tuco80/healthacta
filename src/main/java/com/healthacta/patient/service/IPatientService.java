@@ -1,4 +1,4 @@
-package com.healthacta.patient.service;
+package com.healtacta.patient.service;
 
 public interface IPatientService {
 
