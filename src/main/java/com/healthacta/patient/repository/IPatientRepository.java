@@ -1,4 +1,4 @@
-package com.healtacta.patient.repository;
+package com.healthacta.patient.repository;
 
 public interface IPatientRepository {
 

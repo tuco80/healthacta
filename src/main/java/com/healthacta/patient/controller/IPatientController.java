@@ -1,4 +1,4 @@
-package com.healtacta.patient.controller;
+package com.healthacta.patient.controller;
 
 public interface IPatientController {
 
